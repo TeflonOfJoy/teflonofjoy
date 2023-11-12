@@ -11,6 +11,6 @@ I'm a full-time /Computer Science/ student. In my free time I like
 researching various things and learning the japanese language.
 
 *** Contact
-If you'd like to contact me, see my website.
+If you'd like to contact me, see my website. You can also find me on Matrix!
 
-[[https://teflonofjoy.com][My website]] · [[https://blush.design/collections/open-peeps/open-peeps/pose-bust/EMhW6ZoDVuZwYbWb?c=skin_0%7E694d3d&bg=03e285][OpenPeeps avatar]]
+[[https://teflonofjoy.com][My website]] · [[https://matrix.to/#/@teflonofjoy:matrix.org][Matrix]] · [[https://blush.design/collections/open-peeps/open-peeps/pose-bust/EMhW6ZoDVuZwYbWb?c=skin_0%7E694d3d&bg=03e285][OpenPeeps avatar]]
