@@ -1,6 +1,6 @@
 #+STARTUP: nofold
 #+HTML: <a href="https://www.youtube.com/watch?v=1prweT95Mo0">
-#+HTML: <img src="https://github.com/TeflonOfJoy/teflonofjoy/assets/39195498/40121796-9295-4072-8bf9-10738a31f4cb" width="232px" align="right" alt="tef's avatar image"/>
+#+HTML: <img src="https://github.com/TeflonOfJoy/teflonofjoy/assets/39195498/a945cdeb-bcab-48af-8c9e-d5e5e15e78cc" width="232px" align="right" alt="tef's avatar image"/>
 #+HTML: </a>
 
 * Howdy
