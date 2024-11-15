@@ -1,10 +1,11 @@
 #+STARTUP: nofold
-#+HTML: <a href="https://www.youtube.com/watch?v=1prweT95Mo0">
-#+HTML: <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39195498/282300434-a945cdeb-bcab-48af-8c9e-d5e5e15e78cc.png" width="232px" align="right" alt="openpeeps avatar"/>
-#+HTML: </a>
 
 * Hi
 Welcome to my profile.
+
+#+HTML: <a href="https://www.youtube.com/watch?v=1prweT95Mo0">
+#+HTML: <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39195498/282300434-a945cdeb-bcab-48af-8c9e-d5e5e15e78cc.png" width="232px" align="right" alt="openpeeps avatar"/>
+#+HTML: </a>
 
 *** About
 I'm a full-time /Computer Science/ student. In my free time I like
