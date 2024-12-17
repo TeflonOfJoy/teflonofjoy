@@ -4,7 +4,7 @@
 #+HTML: <a href="https://youtu.be/1F3OGIFnW1k?si=dObNAqDzrBbXpa3s">
 #+HTML: <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39195498/282300434-a945cdeb-bcab-48af-8c9e-d5e5e15e78cc.png" width="232px" align="right" alt="openpeeps avatar"/>
 #+HTML: </a>
-*** About
+*** About Me
 I'm a full-time /Computer Science/ student. In my free time I like
 researching various things and learning 日本語.
 Here are some of the technologies I have used:
