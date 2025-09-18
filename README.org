@@ -12,4 +12,4 @@ Here are some of the technologies I have used:
 *** Contact
 If you'd like to contact me, see my website. You can also find me on Matrix!
 
-[[https://teflonofjoy.com][My website]] · [[https://matrix.to/#/@teflonofjoy:matrix.org][Matrix]] · [[https://blush.design/collections/open-peeps/open-peeps/pose-bust/t2bLqT7rjpER77az?c=skin_0%7E694d3d&bg=03e285][OpenPeeps avatar]]
+[[https://blog.teflonofjoy.com][My blog]] · [[https://matrix.to/#/@teflonofjoy:matrix.org][Matrix]] · [[https://blush.design/collections/open-peeps/open-peeps/pose-bust/t2bLqT7rjpER77az?c=skin_0%7E694d3d&bg=03e285][OpenPeeps avatar]]
