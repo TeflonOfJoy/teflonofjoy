@@ -1,6 +1,6 @@
 #+STARTUP: nofold
 
-#+HTML: <a href="https://github.com/teflonofjoy"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=520&height=60&lines=Emanuel+Nibizi;Blogger+and+Foodie+%7C+Undergraduate+Student+%7C+Computer+Science" alt="Typing SVG" /></a>
+#+HTML: <a href="https://github.com/teflonofjoy"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=78E185&multiline=true&width=520&height=60&lines=Emanuel+Nibizi;Computer+Science+%7C+Machine+Learning+%7C+Formal+Verification" alt="Typing SVG" /></a>
 #+HTML: <a href="https://open.spotify.com/intl-it/album/0hvT3yIEysuuvkK73vgdcW">
 #+HTML: <img src="https://github.com/user-attachments/assets/fa33c7ea-bf7b-4b2f-aad4-de4fd4b53750" width="232px" align="right" alt="openpeeps avatar"/>
 #+HTML: </a>
